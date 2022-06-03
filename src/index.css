@@ -1,0 +1,273 @@
+.overflow {
+  overflow: hidden;
+}
+
+.navig-bkg {
+  background: transparent linear-gradient(124deg, #7c1fbf 0%, #470a73 100%) 0%
+    0% no-repeat padding-box;
+}
+
+.nav-elements {
+  align-items: flex-end;
+  justify-content: space-between;
+  font-size: small;
+}
+.btn {
+  /* margin-right: 12px; */
+  font: normal normal normal 16px/74px Roboto;
+}
+.box-button {
+  border: 0.5px solid #ffffff;
+  border-radius: 4px;
+  width: 7rem;
+  height: auto;
+  text-align: center;
+  padding: 0;
+}
+
+.header {
+  padding: 0 20px;
+  background: transparent linear-gradient(124deg, #7c1fbf 0%, #470a73 100%) 0%
+    0% no-repeat padding-box;
+}
+.body-text {
+  margin-top: 20vh;
+  color: #fff;
+  /* font: 48px bold Roboto; */
+  font: normal normal bold 48px/68px Roboto;
+  text-align: left;
+}
+.body-text1 {
+  color: #fff;
+  font: normal normal 300 18px/22px Roboto;
+}
+.body-button {
+  width: 304px;
+  height: 50px;
+  border-radius: 6px;
+  border: none;
+  color: #7c20bf;
+  background: #ffffff 0% 0% no-repeat padding-box;
+  opacity: 1;
+  margin-bottom: 3vh;
+}
+.image-group {
+  padding-bottom: 30vh;
+}
+.numbers {
+  width: 42px;
+  height: 42px;
+  background: #7c20bf 0% 0% no-repeat padding-box;
+  /* box-shadow: solid 5px #9357be; */
+  border-radius: 4px;
+  opacity: 1;
+  text-align: center;
+  font: normal normal normal 19px/25px Roboto;
+  letter-spacing: 0px;
+  color: #ffffff;
+}
+.section2-text {
+  margin: 10px 5vw;
+  align-items: center;
+}
+.account,
+.deposit {
+  margin-bottom: 10vh;
+}
+.section-3 {
+  background-color: #ffffff;
+  text-align: center;
+  padding: 15vh 0 10vh;
+}
+.apple-logo1 {
+  border: 0.5px solid #26093a;
+  border-radius: 4px;
+  font: normal normal normal 18px/24px Roboto;
+  letter-spacing: 0px;
+  background-color: #000000;
+  margin-right: 5px;
+  /* color: #000; */
+  /* opacity: 1; */
+}
+.section-3 button {
+  width: 304px;
+  height: 50px;
+  background: #7c20bf 0% 0% no-repeat padding-box;
+  border-radius: 6px;
+  border: none;
+  margin-bottom: 4vh;
+}
+.section3-text1 {
+  font: 38px Roboto;
+  color: #26093a;
+}
+
+.section-4 .box {
+  width: 100%;
+}
+
+.section-4 {
+  height: 75vh;
+  padding-top: 1.5rem;
+}
+
+.purple-background {
+  position: relative;
+}
+.purple-background p {
+  position: absolute;
+  bottom: 90px;
+  text-align: center;
+  font-size: medium;
+  color: #fff;
+  padding: 0 1.5rem;
+}
+.quote {
+  position: absolute;
+  top: 60px;
+  margin-left: 7px;
+}
+.footer {
+  background: #ffffff 0% 0% no-repeat padding-box;
+}
+.footer ul {
+  list-style-type: none;
+}
+.footer-contact a {
+  color: #26093a;
+  text-decoration: none;
+}
+.footer-contact p {
+  text-align: start;
+}
+
+.instant {
+  background: #fbf8fd 0% 0% no-repeat padding-box;
+  text-align: center;
+  box-shadow: #7c20bf;
+  width: 600px;
+  /* height: 500px; */
+  margin: 3% 32%;
+  padding-top: 5%;
+}
+.input1 {
+  width: 450px;
+  height: 48px;
+  background: #ffffff 0% 0% no-repeat padding-box;
+  border: 0.5px solid #e4e4e4;
+  border-radius: 8px;
+  opacity: 1;
+  margin-bottom: 20px;
+  padding: 5%;
+}
+.sign-up {
+  width: 450px;
+  height: 48px;
+  background: #7c20bf 0% 0% no-repeat padding-box;
+  border-radius: 8px;
+  opacity: 1;
+}
+
+.individual {
+  background: #ffffff 0% 0% no-repeat padding-box;
+  border-radius: 8px;
+  border: none;
+  opacity: 1;
+  width: 225px;
+  height: 35px;
+}
+.business {
+  background: #e4e4e4 0% 0% no-repeat padding-box;
+  border-radius: 8px;
+  border: none;
+  opacity: 1;
+  width: 225px;
+  height: 35px;
+}
+.username {
+  margin-top: 20px;
+}
+.terms {
+  text-align: center;
+  font: normal normal normal 14px/21px Roboto;
+  letter-spacing: 0px;
+  opacity: 1;
+}
+.sign-up {
+  margin-bottom: 30px;
+  color: #fff;
+}
+.click-here {
+  font: normal normal medium 14px/74px Roboto;
+  letter-spacing: 0px;
+  color: #7c20bf;
+  opacity: 1;
+}
+.already {
+  margin-bottom: 40px;
+}
+.buy-page {
+  width: 450px;
+  height: 48px;
+  margin-bottom: 20px;
+}
+.buy {
+  margin-top: 40px;
+  /* padding: 3%; */
+  padding-left: 3%;
+}
+.login {
+  display: flex;
+  padding-left: 80px;
+  margin-bottom: 70px;
+}
+.login p {
+  padding-left: 5px;
+}
+.click-sign {
+  text-align: center;
+  font: normal normal normal 20px/26px Roboto;
+  letter-spacing: 0px;
+  color: #ffffff;
+  opacity: 1;
+}
+.login a {
+  padding-left: 200px;
+  font: normal normal normal 14px/19px Roboto;
+  letter-spacing: 0px;
+  color: #7c20bf;
+}
+.almost {
+  font: normal normal 100 48px Roboto;
+  letter-spacing: 0px;
+  color: #000000;
+  font-weight: lighter;
+}
+.iretiayo {
+  font: normal normal medium 48px Roboto;
+  letter-spacing: 0px;
+  color: #000000;
+  margin-bottom: 20px;
+}
+.started-button {
+  margin-top: 60px;
+}
+.started-note {
+  margin-top: 40px;
+}
+.instant-box a {
+  font: normal normal normal 18px Roboto;
+  letter-spacing: 0px;
+  color: #7c20bf;
+}
+
+/* // X-Small devices (portrait phones, less than 576px) */
+/* // No media query for `xs` since this is the default in Bootstrap */
+
+/* // Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) {
+}
+
+/* // Large devices (desktops, 992px and up) */
+@media (min-width: 992px) {
+}
